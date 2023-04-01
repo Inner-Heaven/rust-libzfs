@@ -1,10 +1,10 @@
 [package]
-name = "zfs-core-sys"
-version = "0.5.0"
+name = "libzetta-zfs-core-sys"
+version = "0.5.1"
 authors = ["Cody P Schafer <dev@codyps.com>"]
 include = ["**/*.rs", "Cargo.toml"]
-documentation = "https://docs.rs/zfs-core-sys"
-repository = "https://github.com/jmesmon/rust-libzfs"
+documentation = "https://docs.rs/libzetta-zfs-core-sys"
+repository = "https://github.com/InnerHeaven/rust-libzfs"
 description = "Bindings to libzfs_core (lzc)"
 license = "Apache-2.0 OR MIT"
 edition = "2018"
